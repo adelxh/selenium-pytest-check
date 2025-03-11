@@ -1,2 +1,12 @@
 T0005 - Title in Ascending order - PASSED
 T0005 - Title in Descending order - PASSED
+T0001: Dropdown options - PASSED
+T0001: Dropdown options - PASSED
+T0001: Dropdown options - PASSED
+T0001: Dropdown options - PASSED
+T0005 - Title in Ascending order - PASSED
+T0005 - Title in Descending order - PASSED
+[7.99, 9.99, 15.99, 15.99, 29.99, 49.99]
+T0002: Price from Low to High - PASSED
+[49.99, 29.99, 15.99, 15.99, 9.99, 7.99]
+T0003: Price from High to Low - PASSED
