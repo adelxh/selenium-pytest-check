@@ -1,0 +1,7 @@
+Test #,Test Name,Test Description,Expected Result,Actual Result,Status,Browser Used,Date
+T001,Log in to website with credentials,User logging in to the website with correct credentials,User Logs in,User Logs in,PASSED,Chrome v134,"March 11, 2025"
+T002,Dropdown options test,User clicks on dropdown sorting options expecting different sorting output,Output changes based on the option selection,Output changes based on the option selection,PASSED,Chrome v134,"March 11, 2025"
+T003,Test alphabetical sorting,"When user chooses ‘Name (A to Z)’ output should be in alphabetical order if not, the functionality is not working",output items are in alphabetical order,Output items are in alphabetical order,PASSED,Chrome v134,"March 11, 2025"
+T004,Test reverse alphabetical sorting,"When user chooses ‘Name (Z to A)’ output should be in reverse alphabetical order if not, the functionality is not working",output items are in reverse order,output items are in reverse order,PASSED,Chrome v134,"March 11, 2025"
+T005,Test low to high prices sorting,When user chooses ‘Price (low to high)’ output should be items sorted from cheapest to most expensive,Items are sorted from cheapest to most expensive,Items are sorted from cheapest to most expensive,PASSED,Chrome v134,"March 11, 2025"
+T006,Test high to low prices sorting,When user chooses ‘Price (high to low) output should be items sorted from most expensive to cheapest,Items are sorted from most expensive to cheapest,Items are sorted from most expensive to cheapest,PASSED,Chrome v134,"March 11, 2025"
